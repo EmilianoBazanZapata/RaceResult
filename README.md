@@ -886,20 +886,6 @@ Encontrar el mínimo requiere una sola pasada `O(n)`.
 ## Estado aislado por carrera
 
 Cada iteración crea sus propios resultados; una carrera anterior no contamina la siguiente.
-
----
-
-# Posibles mejoras futuras
-
-- persistencia JSON/CSV;
-- historial de carreras;
-- importación/exportación;
-- UI gráfica;
-- campeonatos;
-- estadísticas adicionales;
-- GitHub Actions;
-- reporte de cobertura.
-
 ---
 
 # Licencia
